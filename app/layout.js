@@ -5,7 +5,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <Script
-          src="https://scriptstaging.cookieyes.com/client_data/fc02b7fab6aaf924ab95478a/script.js"
+          src="https://scriptstaging.cookieyes.com/client_data/f701752a97699b295781d280/script.js"
           strategy='beforeInteractive'
         />
         {/* <script
