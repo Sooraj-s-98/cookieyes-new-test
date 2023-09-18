@@ -2,7 +2,7 @@ import Script from "next/script";
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="de-DE">
+    <html >
       <head>
         <Script
           src="https://cdn-cookieyes.com/client_data/3b38adf319046a239a73c2cf/script.js"
